@@ -1,0 +1,5 @@
+{
+  "name": "AutoEdit AI",
+  "description": "An intelligent video editor that automatically generates captions and B-roll transitions using Gemini 2.5 Multimodal capabilities.",
+  "requestFramePermissions": []
+}
